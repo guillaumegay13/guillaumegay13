@@ -6,14 +6,12 @@ Passionate about AI agents, developer tools, open source, and entrepreneurship.
 
 ## Highlighted Projects
 
-| Project | Description | |
-|---------|-------------|---|
-| [FieldFlow](https://github.com/guillaumegay13/fieldflow) | Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need | ⭐ 105+ |
-| [n8n-agentic](https://github.com/guillaumegay13/n8n-agentic) | Build n8n workflows with AI — describe automations in natural language | ⭐ 26+ |
-| [send-again](https://github.com/guillaumegay13/send-again) | Open source alternative to Resend, built on Amazon SES | [send-again.com](https://send-again.com) |
-| [claude-code-telegram](https://github.com/guillaumegay13/claude-code-telegram) | Telegram bot for remote Claude Code access | |
-| [GEOTracker](https://github.com/guillaumegay13/geotracker) | Open source Generative Engine Optimization (GEO) tool | |
-| [youtube-to-viral-clips](https://github.com/guillaumegay13/youtube-to-viral-clips) | AI-powered viral clip extractor from YouTube videos | |
+- [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) — Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need ⭐ 105+
+- [**n8n-agentic**](https://github.com/guillaumegay13/n8n-agentic) — Build n8n workflows with AI ⭐ 26+
+- [**send-again**](https://github.com/guillaumegay13/send-again) — Open source alternative to Resend, built on Amazon SES
+- [**claude-code-telegram**](https://github.com/guillaumegay13/claude-code-telegram) — Telegram bot for remote Claude Code access
+- [**GEOTracker**](https://github.com/guillaumegay13/geotracker) — Open source Generative Engine Optimization (GEO) tool
+- [**youtube-to-viral-clips**](https://github.com/guillaumegay13/youtube-to-viral-clips) — AI-powered viral clip extractor from YouTube videos
 
 ## Tech Stack
 
