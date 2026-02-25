@@ -12,6 +12,9 @@ Passionate about AI agents, developer tools, open source, and entrepreneurship.
 - [**claude-code-telegram**](https://github.com/guillaumegay13/claude-code-telegram) — Telegram bot for remote Claude Code access
 - [**GEOTracker**](https://github.com/guillaumegay13/geotracker) — Open source Generative Engine Optimization (GEO) tool
 - [**youtube-to-viral-clips**](https://github.com/guillaumegay13/youtube-to-viral-clips) — AI-powered viral clip extractor from YouTube videos
+- [**Noiseless Report**](https://www.noiselessreport.ai) — Weekly high-signal AI newsletter
+- [**MyTrainer**](https://mytrainerapp.io) — Fitness personal trainer mobile app using generative AI
+- [**AirConcierge**](https://airconcierge.io) — Platform to find and book concierge services for property management
 
 ## Tech Stack
 
