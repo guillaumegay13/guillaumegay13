@@ -4,20 +4,19 @@ Software engineer building tools & products.
 
 ## Highlighted Projects
 
+- [**MyTrainer**](https://mytrainerapp.io) — Fitness personal trainer mobile app using generative AI
 - [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) — Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need
 - [**n8n-agentic**](https://github.com/guillaumegay13/n8n-agentic) — Build n8n workflows with AI
 - [**send-again**](https://github.com/guillaumegay13/send-again) — Open source alternative to Resend, built on Amazon SES
 - [**GEOTracker**](https://github.com/guillaumegay13/geotracker) — Open source Generative Engine Optimization (GEO) tool
 - [**youtube-to-viral-clips**](https://github.com/guillaumegay13/youtube-to-viral-clips) — AI-powered viral clip extractor from YouTube videos
 - [**Noiseless Report**](https://www.noiselessreport.ai) — Weekly high-signal AI newsletter
-- [**MyTrainer**](https://mytrainerapp.io) — Fitness personal trainer mobile app using generative AI
 - [**AirConcierge**](https://airconcierge.io) — Platform to find and book concierge services for property management
 
 ## Contributions
 - [**manifest**](https://github.com/mnfst/manifest) - Manage your OpenClaw costs with models routing
 - [**claude-code-telegram**](https://github.com/guillaumegay13/claude-code-telegram) — Telegram bot for remote Claude Code access
 - [**datagouv-mcp**](https://github.com/datagouv/datagouv-mcp) - Access french public data in AI chatbots
-- 
 
 ## Tech Stack
 
