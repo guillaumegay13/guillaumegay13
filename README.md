@@ -10,7 +10,7 @@ Software engineer building tools & products.
 - [**send-again**](https://github.com/guillaumegay13/send-again) — Open source alternative to Resend, built on Amazon SES
 - [**GEOTracker**](https://github.com/guillaumegay13/geotracker) — Open source Generative Engine Optimization (GEO) tool
 - [**youtube-to-viral-clips**](https://github.com/guillaumegay13/youtube-to-viral-clips) — AI-powered viral clip extractor from YouTube videos
-- [**Noiseless Report**](https://www.noiselessreport.ai) — Weekly high-signal AI newsletter
+- [**Noiseless Report**](https://www.noiselessreport.ai) — High-signal AI newsletter
 - [**AirConcierge**](https://airconcierge.io) — Platform to find and book concierge services for property management
 
 ## Contributions
