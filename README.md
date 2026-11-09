@@ -6,8 +6,6 @@ Software engineer building tools & products. Maintainer @ [**manifest**](https:/
 - [**MyTrainer**](https://mytrainerapp.io) — Fitness personal trainer mobile app using generative AI
 - [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) — Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need
 - [**Hippocamp**](https://github.com/guillaumegay13/hippocamp) — Memory for agents
-- [**send-again**](https://github.com/guillaumegay13/send-again) — Open source alternative to Resend, built on Amazon SES
-- [**GEOTracker**](https://github.com/guillaumegay13/geotracker) — Open source Generative Engine Optimization (GEO) tool
 - [**youtube-to-viral-clips**](https://github.com/guillaumegay13/youtube-to-viral-clips) — AI-powered viral clip extractor from YouTube videos
 - [**AirConcierge**](https://airconcierge.io) — Platform to find and book concierge services for property management
 
