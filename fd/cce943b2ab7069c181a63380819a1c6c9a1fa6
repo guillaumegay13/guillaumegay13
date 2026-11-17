@@ -1,0 +1,19 @@
+README.md
+  s_8c705010689614::t_6fba5d1f5aed17 13-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fdcce943b2ab7069c181a63380819a1c6c9a1fa6",
+  "prompts": {},
+  "sessions": {
+    "s_8c705010689614": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e176e494cffexhB4ed3yVWKWqJ",
+        "model": "auto"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
