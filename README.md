@@ -1,6 +1,7 @@
 # Hey, I'm Guillaume 👋
 
 Applied AI software engineer.
+
 Maintainer @ [**manifest**](https://github.com/mnfst/manifest), the open source LLM gateway · [manifest.build](https://manifest.build)
 
 [![manifest stars](https://img.shields.io/github/stars/mnfst/manifest?style=flat&label=stars&color=f5c542)](https://github.com/mnfst/manifest)
