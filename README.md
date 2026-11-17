@@ -25,6 +25,5 @@ Maintainer @ [**manifest**](https://github.com/mnfst/manifest), the open source 
 
 ## Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://projects-portfolio-mu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-gay-aa0ba6133/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/GuillaumeGay_)
