@@ -8,11 +8,11 @@ Maintainer @ [**manifest**](https://github.com/mnfst/manifest), the open source 
 [![manifest license](https://img.shields.io/github/license/mnfst/manifest?style=flat&label=license)](https://github.com/mnfst/manifest)
 [![LLM gateway](https://img.shields.io/badge/LLM%20gateway-open%20source-6E56CF?style=flat)](https://github.com/mnfst/manifest)
 
-## Highlighted Projects
+## Recent Work
 
-- 🧠 [**Hippocamp**](https://github.com/guillaumegay13/hippocamp) ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) · Memory for agents · Plain Markdown in your own git repo
-- 🏋️ [**MyTrainer**](https://mytrainerapp.io) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) · Get fit · AI personal trainer in your pocket
-- 🌊 [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square) ![API](https://img.shields.io/badge/API-555?style=flat-square) · Save context tokens · Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need
+- 🧠 [**Hippocamp**](https://github.com/guillaumegay13/hippocamp) · Memory for agents · Plain Markdown in your own git repo ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+- 🏋️ [**MyTrainer**](https://mytrainerapp.io) · Get fit · AI personal trainer in your pocket ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) 
+- 🌊 [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) · Save context tokens · Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square) ![API](https://img.shields.io/badge/API-555?style=flat-square)
 
 ## Tech Stack
 
