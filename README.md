@@ -10,9 +10,9 @@ Maintainer @ [**manifest**](https://github.com/mnfst/manifest), the open source 
 
 ## Highlighted Projects
 
-- 🧠 [**Hippocamp**](https://github.com/guillaumegay13/hippocamp) · Memory for agents · Plain Markdown in your own git repo `MCP` `Git`
-- 🏋️ [**MyTrainer**](https://mytrainerapp.io) · Get fit · AI personal trainer in your pocket `iOS` `Android`
-- 🌊 [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) · Save context tokens · Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need `MCP` `API`
+- 🧠 [**Hippocamp**](https://github.com/guillaumegay13/hippocamp) ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) · Memory for agents · Plain Markdown in your own git repo
+- 🏋️ [**MyTrainer**](https://mytrainerapp.io) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) · Get fit · AI personal trainer in your pocket
+- 🌊 [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square) ![API](https://img.shields.io/badge/API-555?style=flat-square) · Save context tokens · Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need
 
 ## Tech Stack
 
