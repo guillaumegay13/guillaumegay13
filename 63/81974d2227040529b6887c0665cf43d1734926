@@ -1,0 +1,21 @@
+README.md
+  s_8c705010689614::t_e3d475b557ce78 5,11
+  s_8c705010689614::t_a3d85aa60fab1b 12-14
+  s_8c705010689614::t_04d022bdbcfc92 3-4,6-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6381974d2227040529b6887c0665cf43d1734926",
+  "prompts": {},
+  "sessions": {
+    "s_8c705010689614": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e176e494cffexhB4ed3yVWKWqJ",
+        "model": "auto"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
