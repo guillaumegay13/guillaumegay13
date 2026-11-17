@@ -1,17 +1,17 @@
 # Hey, I'm Guillaume 👋
 
-Software engineer building tools & products. Maintainer @ [**manifest**](https://github.com/mnfst/manifest)
+Applied AI software engineer.
+Maintainer @ [**manifest**](https://github.com/mnfst/manifest), the open source LLM gateway · [manifest.build](https://manifest.build)
+
+[![manifest stars](https://img.shields.io/github/stars/mnfst/manifest?style=flat&label=stars&color=f5c542)](https://github.com/mnfst/manifest)
+[![manifest license](https://img.shields.io/github/license/mnfst/manifest?style=flat&label=license)](https://github.com/mnfst/manifest)
+[![LLM gateway](https://img.shields.io/badge/LLM%20gateway-open%20source-6E56CF?style=flat)](https://github.com/mnfst/manifest)
 
 ## Highlighted Projects
-- [**MyTrainer**](https://mytrainerapp.io) — Fitness personal trainer mobile app using generative AI
-- [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) — Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need
-- [**Hippocamp**](https://github.com/guillaumegay13/hippocamp) — Memory for agents
-- [**youtube-to-viral-clips**](https://github.com/guillaumegay13/youtube-to-viral-clips) — AI-powered viral clip extractor from YouTube videos
-- [**AirConcierge**](https://airconcierge.io) — Platform to find and book concierge services for property management
 
-## Contributions
-- [**claude-code-telegram**](https://github.com/guillaumegay13/claude-code-telegram) — Telegram bot for remote Claude Code access
-- [**datagouv-mcp**](https://github.com/datagouv/datagouv-mcp) - Access french public data in AI chatbots
+- 🧠 [**Hippocamp**](https://github.com/guillaumegay13/hippocamp) · Memory for agents · Plain Markdown in your own git repo `MCP` `Git`
+- 🏋️ [**MyTrainer**](https://mytrainerapp.io) · Get fit · AI personal trainer in your pocket `iOS` `Android`
+- 🌊 [**FieldFlow**](https://github.com/guillaumegay13/fieldflow) · Save context tokens · Turns any REST API into a GraphQL-like MCP server so agents fetch only the fields they need `MCP` `API`
 
 ## Tech Stack
 
